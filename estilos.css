@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(245, 4, 4);
+    font-family: 'Lucida Sans';
+    margin: 2ex;
+    text-align: justify;
+}
+
+#um{
+    color:rgb(247, 210, 6);
+    font-family: 'Gill Sans';
+
+}
+#dois{
+    color:rgb(247, 210, 6);
+    font-family:'Gill Sans';
+}
+#três{
+    color:rgb(247, 210, 6);
+    font-family: 'Gill Sans';
+    
+
+}
+#menu{
+    text-align: left;
+}
+    
+
